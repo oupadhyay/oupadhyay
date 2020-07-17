@@ -15,5 +15,3 @@
    - enabling your success.
 ## 📧 I can be reached through
    - [LinkedIn](https://www.linkedin.com/in/ojasw/)
-## 👨 I use the pronouns
-   - He/Him
