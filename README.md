@@ -5,8 +5,6 @@
    - ensure that those from underserved communties get the resources they need, and
    - building my own knowledge regarding website development and the backend integration.
 ## 🌱 I’m currently learning to use 
-   - ReactJS 
-   - Firebase
    - C++
    - R
 ## 🤝 I’m looking to collaborate on 
