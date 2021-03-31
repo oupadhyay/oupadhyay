@@ -4,9 +4,10 @@
    - continuing my efforts to mentor, guide, and tutor the next generation of learners,
    - ensure that those from underserved communties get the resources they need, and
    - building my own knowledge regarding website development and the backend integration.
-## 🌱 I’m currently learning to use 
+## 🌱 I’m currently focusing on 
    - C++
-   - R
+   - Java
+   - Python
 ## 🤝 I’m looking to collaborate on 
    - new or old projects,
    - impactful ideas, and/or
