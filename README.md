@@ -14,3 +14,6 @@
    - enabling your success.
 ## 📧 I can be reached through
    - [LinkedIn](https://www.linkedin.com/in/ojasw/)
+
+[![Ojasw's GitHub stats](https://github-readme-stats.vercel.app/api?username=oupadhyay)](https://github.com/anuraghazra/github-readme-stats)
+
