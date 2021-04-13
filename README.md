@@ -15,5 +15,8 @@
 ## 📧 I can be reached through
    - [LinkedIn](https://www.linkedin.com/in/ojasw/)
 
-[![Ojasw's GitHub stats](https://github-readme-stats.vercel.app/api?username=oupadhyay&include_all_commits=true&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Ojasw's GitHub stats](https://github-readme-stats.vercel.app/api?username=oupadhyay&hide=stars&include_all_commits=true&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![CovEd Card](https://github-readme-stats.vercel.app/api/pin/?username=CovEducation&repo=CovEducation&theme=prussian)](https://github.com/CovEducation/CovEducation)
 
