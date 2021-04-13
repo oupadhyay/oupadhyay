@@ -15,5 +15,5 @@
 ## 📧 I can be reached through
    - [LinkedIn](https://www.linkedin.com/in/ojasw/)
 
-[![Ojasw's GitHub stats](https://github-readme-stats.vercel.app/api?username=oupadhyay&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Ojasw's GitHub stats](https://github-readme-stats.vercel.app/api?username=oupadhyay&include_all_commits=true&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
