@@ -18,10 +18,10 @@
    - ![Python](https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logo=Python&logoColor=white&color=D08770)
    - ![JavaScript](https://img.shields.io/badge/Language-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=D08770)
    - ![Learning Rust](https://img.shields.io/badge/Language-Rust-informational?style=for-the-badge&logo=Rust&logoColor=white&color=D08770)
-   - ![Not a Bug](https://img.shields.io/badge/Not%20A%20Bug-A%20Feature-fun?style=for-the-badge&logo=Open-Bug-Bounty&logoColor=white&color=5E81AC)
+   - ![Not a Bug](https://img.shields.io/badge/Not%20A%20Bug-A%20Feature-fun?style=for-the-badge&logo=Open-Bug-Bounty&logoColor=white&color=BF616A)
    - ![Zsh](https://img.shields.io/badge/Shell-Zsh-fun?style=for-the-badge&logo=GNU-Bash&logoColor=white&color=5E81AC)
-   - ![OS](https://img.shields.io/badge/OS-MacOS-fun?style=for-the-badge&logo=Apple&logoColor=white&color=5E81AC)
-   - ![OS](https://img.shields.io/badge/OS-Linux-fun?style=for-the-badge&logo=Arch-Linux&logoColor=white&color=5E81AC)
+   - ![OS](https://img.shields.io/badge/OS-MacOS-fun?style=for-the-badge&logo=Apple&logoColor=white&color=EBCB8B)
+   - ![OS](https://img.shields.io/badge/OS-Linux-fun?style=for-the-badge&logo=Arch-Linux&logoColor=white&color=B48EAD)
 
 ## 🌟 Past Projects
 [![CovEducation Card](https://github-readme-stats.vercel.app/api/pin/?username=CovEducation&repo=CovEducation&theme=prussian)](https://github.com/CovEducation/CovEducation)
