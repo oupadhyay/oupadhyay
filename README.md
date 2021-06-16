@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A2C3E2&center=true&vCenter=true&width=700&lines=Hello+there+%F0%9F%91%8B!+Ojasw+here.;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A2C3E2&center=true&vCenter=true&width=800&lines=Hello+there+%F0%9F%91%8B!+Ojasw+here.;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 [![Ojasw's GitHub stats](https://github-readme-stats.vercel.app/api?username=oupadhyay&hide=stars&include_all_commits=true&count_private=true&show_icons=true&theme=prussian&card_width=1.5)](https://github.com/anuraghazra/github-readme-stats)
 
