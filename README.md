@@ -18,7 +18,7 @@
    - ![Java](https://img.shields.io/badge/Language-Java-informational?style=for-the-badge&logo=Java&logoColor=white&color=D08770)
    - ![Python](https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&logo=Python&logoColor=white&color=D08770)
    - ![JavaScript](https://img.shields.io/badge/Language-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=D08770)
-   - ![Learning Rust](https://img.shields.io/badge/Language-Rust-informational?style=for-the-badge&logo=Rust&logoColor=white&color=D08770)
+   - ![Learning Go](https://img.shields.io/badge/Language-Go-informational?style=for-the-badge&logo=Go&logoColor=white&color=D08770)
    - ![Zsh](https://img.shields.io/badge/Shell-Zsh-fun?style=for-the-badge&logo=GNU-Bash&logoColor=white&color=5E81AC)
    - ![OS](https://img.shields.io/badge/OS-MacOS-fun?style=for-the-badge&logo=Apple&logoColor=white&color=5E81AC)
 
