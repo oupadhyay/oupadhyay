@@ -19,7 +19,3 @@
    - ![Learning Go](https://img.shields.io/badge/Language-Go-informational?style=for-the-badge&logo=Go&logoColor=white&color=D08770)
    - ![Zsh](https://img.shields.io/badge/Shell-Zsh-fun?style=for-the-badge&logo=GNU-Bash&logoColor=white&color=5E81AC)
    - ![OS](https://img.shields.io/badge/OS-MacOS-fun?style=for-the-badge&logo=Apple&logoColor=white&color=5E81AC)
-
-## 🌟 Past Projects
-[![CovEducation Card](https://github-readme-stats.vercel.app/api/pin/?username=CovEducation&repo=CovEducation&theme=prussian)](https://github.com/CovEducation/CovEducation)
-[![Epsilon Card](https://github-readme-stats.vercel.app/api/pin/?username=EpsilonHacks&repo=EpsilonHacks.github.io&theme=prussian)](https://github.com/EpsilonHacks/EpsilonHacks.github.io)
